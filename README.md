@@ -1,1 +1,2 @@
-# Veritaban-Proje
+# VeritabaniProjesi 
+Veritabanı dersi için hazırladığım rapor
